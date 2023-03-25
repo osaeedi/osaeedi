@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osaeedi
-- 👀 I’m interested in Machine Learning and especially NLP
+- 👀 I’m interested in Machine Learning, Visualization, and Climate Models
 
 <!---
 osaeedi/osaeedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
